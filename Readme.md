@@ -68,6 +68,7 @@ Predicted score for 6 hours of study is: 71.34
 
 ## Visualization
 A scatter plot and regression line are used to visualize the relationship between hours studied and exam score.
+<img width="711" height="582" alt="image" src="https://github.com/user-attachments/assets/0fbaf7b5-4c42-40df-9959-99bdcbb0910f" />
 
 
 ---
